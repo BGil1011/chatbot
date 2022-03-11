@@ -35,7 +35,7 @@ function productos(e) {
 
 async function lista(){
     try {
-        const list = await fetch("base.json");
+        const list = await fetch("/base.json");
         const ls = await list.json();
         productos(ls);
         //console.log(ls);
