@@ -3,31 +3,31 @@
         "id": 1,
         "nombre": "SAGE The Smart Oven Pro horno 2400 W, 28 x 47 x 32 cm",
         "precio": 100,
-        "imagen": "/img/sage.jpeg"
+        "imagen": "/sage.jpeg"
     },
     {
         "id": 2,
         "nombre": "LG MH6535GIB - Microondas con grill, 25 litros, 1000 W, Smart Inverter, display digital, Color Negro",
         "precio": 130,
-        "imagen": "/img/lg.jpeg"
+        "imagen": "/lg.jpeg"
     },
     {
         "id": 3,
         "nombre": "Candy X-Range CMXG20DS, Microondas con Grill, 20L, 1050W, 5 Niveles de Potencia, Digital, 40 Programas, Bloqueo Seguridad, Plato 25,5CM, Grill Rack, Express Cooking, Temporizador, App simply-Fi, Inox",
         "precio": 150,
-        "imagen": "/img/candy.jpeg"
+        "imagen": "/candy.jpeg"
     },
     {
         "id": 4,
         "nombre": "Candy X-Range CMXG 25DCS, Microondas con Grill, 25L, 1450W, 5 Niveles, Digital, 40 Programas, Bloqueo, Plato 31,5CM, Grill Rack, Plato Crunchy, Express Cooking, Temporizador, App simply-Fi, Inox ",
         "precio": 120,
-        "imagen": "/img/candy1.jpeg"
+        "imagen": "/candy1.jpeg"
     },
     {
         "id": 5,
         "nombre": "DLT Hornos tostadores WiFi Inteligentes, Horno de sobremesa de 32 litros sobre encimera con Hierro Fundido esmaltado y Plancha y Tapa, Horno de Pantalla táctil para Pizza horneada, Negro, Amarillo",
         "precio": 200,
-        "imagen": "/img/dlt.jpeg"
+        "imagen": "/dlt.jpeg"
     }
 
 ]
