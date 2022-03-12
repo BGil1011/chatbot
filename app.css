@@ -33,6 +33,7 @@ h1{
 .nombre{
     font-weight: bold;
     font-size: 20px;
+    color: grey;
 }
 
 @media (max-width: 740px ) {
